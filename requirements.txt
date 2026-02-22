@@ -1,0 +1,8 @@
+opencv-python>=4.8.0
+numpy>=1.24.0
+scenedetect[opencv]>=0.6.2
+Pillow>=10.0.0
+tqdm>=4.65.0
+click>=8.1.0
+python-dotenv>=1.0.0
+google-generativeai>=0.8.0
